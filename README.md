@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/alimoosavi3006" target="blank"><img src="https://img.shields.io/twitter/follow/alimoosavi3006?logo=twitter&style=for-the-badge" alt="alimoosavi3006" /></a> </p>
 
-- 🔭 I’m currently working on [َAutomation](Private)
+- 🔭 I’m currently working on [َAutomation] **Private
 
 - 🌱 I’m currently learning **Python**
 
